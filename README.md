@@ -35,7 +35,7 @@ Si vous avez des questions, n'hésitez pas à me contacter à cette adresse mail
 ## 🙇 Auteur
 
 #### C. BLET
-- Github : [@starc007](https://github.com/starc007)
+- Github : [@urban-succotash(https://github.com/urban-succotash)
 
 
 ## ➤ License
