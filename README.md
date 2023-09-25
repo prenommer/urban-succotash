@@ -1,3 +1,4 @@
+REMARQUE : Le référentiel est en construction. Il y aura un site Web dédié et une documentation appropriée à un moment donné !
 
 # <p align="center">Prénommer</p>
   
@@ -38,7 +39,7 @@ Si vous avez des questions, n'hésitez pas à me contacter à cette adresse mail
 - Github : [@urban-succotash](https://github.com/prenommer/urban-succotash)
 
 
-## ➤ License
+## ➤ Licenses
 
 *   Built with Visual Studio Community 2022
 *   Prénommer © 2023. — Creative Commons License BY-SA 4.0
