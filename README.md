@@ -4,7 +4,7 @@ REMARQUE : Le référentiel est en construction. Il y aura un site Web dédié e
   
 Juste une application pour choisir les prénoms de votre enfant.
 ## Caractéristiques   
-- Logiciel informatique Code source ouvert et Gratuit.
+- Logiciel informatique Code source ouvert, gratuit et sans publicité.
 - Licence CC BY-SA 4.0 permet toute exploitation de l'œuvre (partager, copier, reproduire, distribuer, communiquer, réutiliser, adapter) par tous moyens et sous tous formats.
               
 - Libre redistribution, accès au code source et création de travaux dérivés.
