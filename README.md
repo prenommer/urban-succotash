@@ -39,7 +39,7 @@ Si vous avez des questions, n'hésitez pas à me contacter à cette adresse mail
 - Github : [@urban-succotash](https://github.com/prenommer/urban-succotash)
 
 
-## ➤ Licenses
+## ➤ Licences
 
 *   Built with Visual Studio Community 2022
 *   Prénommer © 2023. — Creative Commons License BY-SA 4.0
